@@ -1,0 +1,2 @@
+Création d'un autre fichier texte
+Pour tester le fonctionnement
