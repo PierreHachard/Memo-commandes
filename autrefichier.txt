@@ -1,5 +1,0 @@
-Création d'un autre fichier texte
-Pour tester le fonctionnement
-
-On fait une modif directement en ligne pour tester le git pull
-Mais aussi depuis le pc en local
